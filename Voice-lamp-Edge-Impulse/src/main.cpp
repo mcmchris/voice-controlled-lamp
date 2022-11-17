@@ -46,7 +46,7 @@
 
 /* Includes ---------------------------------------------------------------- */
 #include <PDM.h>
-#include <WisSound_inferencing.h>
+#include <WisSound_inferencing.h>  // Named as your project on Edge Impulse
 #include <SimpleTimer.h>
 
 #define PDM_DIN 21 // D8 //21
